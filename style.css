@@ -1,0 +1,19 @@
+.container-principal {
+    background: black;
+    width: 100%;
+    height: 100%
+}
+
+.imgagen1 {
+    background: aqua;
+
+}
+.titulo {
+    background: red;
+    color: white;
+    float: right;
+    margin-right: 10%;
+    font-size: larger;
+    font-style: ;
+    
+}
